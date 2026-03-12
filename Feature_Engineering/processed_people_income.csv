@@ -1,0 +1,51 @@
+id,name,age,country,gender,income_in_rupees,age_group,income_level,tax
+1001,Ira,35,Nepal,Male,622845,Adult,Medium,62284.5
+1002,Ayaan,46,Nepal,Female,1690453,Senior,High,169045.30000000002
+1003,Meera,49,India,Male,1140347,Senior,High,114034.70000000001
+1004,Arjun,34,India,Female,1619827,Adult,High,161982.7
+1005,Kavya,36,Nepal,Male,382845,Adult,Low,38284.5
+1006,Shaurya,43,India,Female,1271460,Senior,High,127146.0
+1007,Diya,48,India,Female,906779,Senior,Medium,90677.90000000001
+1008,Sara,48,India,Male,433473,Senior,Low,43347.3
+1009,Arjun,30,India,Male,1157164,Young,High,115716.40000000001
+1010,Reyansh,39,Bangladesh,Female,888054,Adult,Medium,88805.40000000001
+1011,Meera,25,India,Female,1274673,Young,High,127467.3
+1012,Aarav,30,Sri Lanka,Male,1530565,Young,High,153056.5
+1013,Diya,48,Bangladesh,Female,977497,Senior,Medium,97749.70000000001
+1014,Ananya,47,India,Male,1489021,Senior,High,148902.1
+1015,Aditya,35,India,Female,646091,Adult,Medium,64609.100000000006
+1016,Ira,34,Sri Lanka,Male,1629639,Adult,High,162963.90000000002
+1017,Myra,24,Bangladesh,Female,601929,Young,Medium,60192.9
+1018,Krishna,46,Nepal,Female,725235,Senior,Medium,72523.5
+1019,Vivaan,35,Nepal,Male,903513,Adult,Medium,90351.3
+1020,Aarav,39,India,Female,1821853,Adult,High,182185.30000000002
+1021,Arjun,43,Sri Lanka,Female,1091205,Senior,High,109120.5
+1022,Meera,32,Sri Lanka,Female,677269,Adult,Medium,67726.90000000001
+1023,Krishna,38,India,Female,1655317,Adult,High,165531.7
+1024,Sara,50,India,Male,568807,Senior,Low,56880.700000000004
+1025,Vivaan,39,India,Female,1080384,Adult,High,108038.40000000001
+1026,Aarav,22,Sri Lanka,Male,646883,Young,Medium,64688.3
+1027,Aarav,31,India,Male,636920,Adult,Medium,63692.0
+1028,Vihaan,29,India,Male,1431286,Young,High,143128.6
+1029,Reyansh,49,India,Male,476198,Senior,Low,47619.8
+1030,Riya,45,Bangladesh,Male,1228238,Senior,High,122823.8
+1031,Kavya,38,India,Female,564382,Adult,Low,56438.200000000004
+1032,Ayaan,29,Bangladesh,Male,557809,Young,Low,55780.9
+1033,Shaurya,42,India,Male,1528893,Senior,High,152889.30000000002
+1034,Arjun,25,India,Male,602895,Young,Medium,60289.5
+1035,Reyansh,44,Bangladesh,Male,1603761,Senior,High,160376.1
+1036,Sara,27,India,Male,1848608,Young,High,184860.80000000002
+1037,Arjun,24,India,Male,1972107,Young,High,197210.7
+1038,Aarav,39,India,Male,571410,Adult,Low,57141.0
+1039,Vivaan,22,Nepal,Female,892004,Young,Medium,89200.40000000001
+1040,Meera,38,India,Female,399905,Adult,Low,39990.5
+1041,Aadhya,34,India,Male,788119,Adult,Medium,78811.90000000001
+1042,Ayaan,47,India,Female,286999,Senior,Low,28699.9
+1043,Diya,47,India,Female,521123,Senior,Low,52112.3
+1044,Aarav,25,India,Female,1887738,Young,High,188773.80000000002
+1045,Saanvi,37,India,Female,1289097,Adult,High,128909.70000000001
+1046,Vihaan,32,India,Male,304527,Adult,Low,30452.7
+1047,Shaurya,43,India,Male,745428,Senior,Medium,74542.8
+1048,Kavya,44,Bangladesh,Male,1301637,Senior,High,130163.70000000001
+1049,Diya,30,India,Male,1925710,Young,High,192571.0
+1050,Arjun,45,India,Male,1440914,Senior,High,144091.4
