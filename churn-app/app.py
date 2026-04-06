@@ -2,12 +2,21 @@ import streamlit as st
 import pickle
 import pandas as pd
 import matplotlib.pyplot as plt
+import os
 
 # -----------------------------
 # Load model and columns
 # -----------------------------
-model = pickle.load(open("model.pkl", "rb"))
-columns = pickle.load(open("columns.pkl", "rb"))
+# 🔥 Get current file directory
+BASE_DIR = os.path.dirname(os.path.abspath(__file__))
+
+# 🔥 Correct paths
+model_path = os.path.join(BASE_DIR, "model.pkl")
+columns_path = os.path.join(BASE_DIR, "columns.pkl")
+
+# Load model
+model = pickle.load(open(model_path, "rb"))
+columns = pickle.load(open(columns_path, "rb"))
 
 st.set_page_config(page_title="Churn Prediction", layout="centered")
 
